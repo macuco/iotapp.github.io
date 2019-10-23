@@ -1417,8 +1417,8 @@ __webpack_require__.r(__webpack_exports__);
 
 const environment = {
     production: true,
-    apiUrl: 'http://localhost:8080',
-    websocketUrl: 'http://localhost:8088/dispositive-interaction'
+    apiUrl: 'https://localhost:8080',
+    websocketUrl: 'https://localhost:8088/dispositive-interaction'
 };
 
 
@@ -1441,8 +1441,8 @@ __webpack_require__.r(__webpack_exports__);
 
 const environment = {
     production: false,
-    apiUrl: 'http://localhost:8080',
-    websocketUrl: 'http://localhost:8088/dispositive-interaction'
+    apiUrl: 'https://localhost:8080',
+    websocketUrl: 'https://localhost:8088/dispositive-interaction'
 };
 /*
  * For easier debugging in development mode, you can import the following file

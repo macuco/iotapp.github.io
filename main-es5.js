@@ -1341,8 +1341,8 @@
             /* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
             var environment = {
                 production: true,
-                apiUrl: 'http://localhost:8080',
-                websocketUrl: 'http://localhost:8088/dispositive-interaction'
+                apiUrl: 'https://localhost:8080',
+                websocketUrl: 'https://localhost:8088/dispositive-interaction'
             };
             /***/ 
         }),
@@ -1361,8 +1361,8 @@
             // The list of file replacements can be found in `angular.json`.
             var environment = {
                 production: false,
-                apiUrl: 'http://localhost:8080',
-                websocketUrl: 'http://localhost:8088/dispositive-interaction'
+                apiUrl: 'https://localhost:8080',
+                websocketUrl: 'https://localhost:8088/dispositive-interaction'
             };
             /*
              * For easier debugging in development mode, you can import the following file
