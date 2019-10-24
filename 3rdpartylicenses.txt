@@ -95,6 +95,9 @@ MIT
 @angular/router
 MIT
 
+@angular/service-worker
+MIT
+
 @stomp/stompjs
 MIT
 Copyright (c) 2018 Deepak Kumar
